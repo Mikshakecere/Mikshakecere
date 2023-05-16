@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mikshakecere
-- 👀 I’m interested in knowing code
+- 👀 I’m interested in competitive coding, so algs and ds. Also want to use my coding skills for apps
 - 🌱 I’m currently learning python, java
-- 💞️ I’m looking to collaborate on btd6 tetris or anything. simple pls im a beginner or if u willing to help a beginner get good :)
-- 📫 How to reach me idk
+- 💞️ I’m looking to collaborate on anything pls
+- 📫 How to reach me? Business email: jngobus125@gmail.com
 
 <!---
 Mikshakecere/Mikshakecere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
