@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Mikshakecere
-- 👀 I’m interested in competitive coding, so algs and ds. Also want to use my coding skills for apps
-- 🌱 I’m currently learning python, java
-- 💞️ I’m looking to collaborate on anything pls
-- 📫 How to reach me? Business email: jngobus125@gmail.com
+Hi, I’m @Mikshakecere. Mainly in a state of alg ds puzzle spamming while trying to use datasets. Dunno what my end goal is but I guess it would be to make a bot complete with features I want
 
 <!---
 Mikshakecere/Mikshakecere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
