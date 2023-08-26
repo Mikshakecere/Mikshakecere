@@ -1,4 +1,4 @@
-Hi, I’m @Mikshakecere. Mainly in a state of alg ds puzzle spamming while trying to use datasets. Dunno what my end goal is but I guess it would be to make a bot complete with features I want
+might sheet sweat 
 
 <!---
 Mikshakecere/Mikshakecere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
