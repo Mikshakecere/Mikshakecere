@@ -1,5 +1,5 @@
-Static or Dynamic
-Strong or Weak type
+Static or Dynamic \n
+Strong or Weak type \n
 OOP, Procedural or Structured
 
 <!---
